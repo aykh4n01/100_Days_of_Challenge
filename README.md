@@ -1,1 +1,1 @@
-# 100_Days_of_Challenge
+Embarking on a personal journey with the 100 Days of Coding Challenge. Over the next 100 days, I'm determined to master coding and Python independently. Follow my progress on GitHub as I share my coding adventures and growth.

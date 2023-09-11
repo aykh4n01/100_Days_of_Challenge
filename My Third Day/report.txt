@@ -1,0 +1,34 @@
+Date: September 11, 2023
+
+Author: Aykhan Ahmadzada f{aykh4n01}
+
+Introduction
+
+This report documents my progress in learning Python coding during my third day of study. Over the course of the day, I explored several fundamental concepts in Python programming, including Hello World and the print command, conditional statements (if-else), mathematical operations, variables, and data types. I also had the opportunity to apply these concepts by working on various small projects, including a BMI (Body Mass Index) calculator, a tip calculator, and programs to determine if a number is odd or even and whether it's a leap year.
+
+Day 3 Learning Highlights
+
+Hello World and Print Command: The day began with a simple yet essential Python tradition: printing "Hello, World!" to the console. This served as an introduction to Python syntax and the print command, which is used to display text and variables.
+
+Conditional Statements (if-else): I delved into conditional statements, particularly the if-else construct. This enabled me to make decisions in my code based on certain conditions. For example, I learned how to create a program that checks if a number is greater or less than a specific threshold and takes different actions accordingly.
+
+Math Operations: Understanding mathematical operations in Python was another crucial step. I practiced using arithmetic operators such as addition, subtraction, multiplication, and division to perform calculations within my programs.
+
+Variables and Data Types: I explored the concept of variables, which allow me to store and manipulate data in my programs. Additionally, I familiarized myself with fundamental data types in Python, such as integers, floats, strings, and booleans.
+
+Projects
+
+I had the opportunity to apply my newfound knowledge through practical projects:
+
+BMI Calculator: I created a BMI calculator program that takes a person's weight and height as input and calculates their BMI. This project helped reinforce my understanding of mathematical operations and variables.
+
+Tip Calculator: Another useful project involved building a tip calculator. Given a bill amount and a desired tip percentage, the program calculates the tip amount and the total bill. This project reinforced the use of variables and mathematical operations.
+
+Odd or Even Checker: I designed a program to determine if a given number is odd or even. This project involved using conditional statements to make decisions based on the properties of the input number.
+
+Leap Year Checker: Finally, I tackled a program that checks whether a year is a leap year or not. This project allowed me to practice conditional statements further, as leap year calculation involves specific rules.
+
+Conclusion
+
+My third day of learning Python was both productive and instructive. I solidified my grasp of fundamental concepts such as conditional statements, mathematical operations, variables, and data types. Additionally, I applied this knowledge effectively by working on practical projects, including a BMI calculator, tip calculator, and programs to determine odd or even numbers and leap years. As I continue my Python journey, I look forward to expanding my skill set and taking on more complex programming challenges.
+
